@@ -66,3 +66,9 @@ header::before{
     20% {content:"Detective";}
     50% {content:"Mystery";}
 }
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
