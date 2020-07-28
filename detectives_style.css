@@ -74,6 +74,7 @@ header::before{
     text-align:right;
     position: absolute;
     padding-bottom: 3px;
+    right:0; 
     color: grey;
 }
 .contacts img {
