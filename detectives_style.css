@@ -57,7 +57,7 @@ header::before{
 }
 .text::after{
     content: "";
-    animation: changetext 2s infinite linear ;
+    animation: changetext 3s infinite linear ;
     color: #00b894;
     font-size: 50px;
 }
@@ -66,6 +66,7 @@ header::before{
     25% {content:"Detective";}
     50% {content:"Mystery";}
     75% {content:"(Insert Quality)";}
+    95% {content:"(Insert Quality)";}
 }
 .copyright {
     font-size: 8pt;
