@@ -57,7 +57,7 @@ header::before{
 }
 .text::after{
     content: "";
-    animation: changetext 4s infinite linear ;
+    animation: changetext 5s infinite linear ;
     color: #00b894;
     font-size: 50px;
 }
