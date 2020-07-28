@@ -5,15 +5,12 @@
     font-family: "Josefin Sans",sans-serif;
  
 }
-body{
-    background-image: url(detect_background.png);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+
 header{
     padding-top: 20px;
     width: 100%;
     height: 100vh;
+    background-color: #fbb73c;
     align-items: center;
 }
 a{
@@ -58,7 +55,7 @@ header::before{
     left: 0;
     bottom: 0;
     background-size: 100% 100%;
-
+    background-image:url(detect_pic.png)
 }
 .text::after{
     content: "";
