@@ -39,3 +39,7 @@ nav{
     transition: 2s linear ;
     border-bottom: 2px solid #fbb73c;
 }
+.options{
+    color:#00b894;
+    text-align:center;
+}
