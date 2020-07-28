@@ -75,19 +75,18 @@ header::before{
     padding-bottom: 3px;
     color: grey;
 }
-#contacts img {
+.contacts img {
     height: 35px;
     width: 35px;
-    margin-left: 7px;
-    margin-right: 7px;
+    
 }
-#contacts a {
+.contacts a {
     text-decoration: none;
 }
-#contacts img:hover {
+.contacts img:hover {
     opacity: 0.8;
 }
-#contacts {
+.contacts {
     text-align: right;
     bottom:0px;
     position: absolute;
