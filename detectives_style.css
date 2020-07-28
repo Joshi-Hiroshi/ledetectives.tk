@@ -57,15 +57,15 @@ header::before{
 }
 .text::after{
     content: "";
-    animation: changetext 7s infinite linear ;
+    animation: changetext 6s infinite linear ;
     color: #00b894;
     font-size: 50px;
 }
 @keyframes changetext{
     0% {content: "Manjunath" ;}
-    20% {content:"Detective";}
+    25% {content:"Detective";}
     50% {content:"Mystery";}
-    80% {content:"(Insert Quality)";}
+    75% {content:"(Insert Quality)";}
 }
 .copyright {
     font-size: 8pt;
