@@ -71,6 +71,7 @@ header::before{
 .copyright {
     font-size: 10pt;
     bottom:0px;
+    text-align:right;
     position: absolute;
     padding-bottom: 3px;
     color: grey;
