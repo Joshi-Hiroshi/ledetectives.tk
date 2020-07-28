@@ -39,9 +39,3 @@ nav{
     transition: 2s linear ;
     border-bottom: 2px solid #fbb73c;
 }
-.center{
-    position: absolute;
-    top: 50%;
-    left: 60%;
-    transform: translate(-50 -50);
-}
