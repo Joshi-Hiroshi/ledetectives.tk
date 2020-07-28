@@ -70,7 +70,7 @@ header::before{
 }
 .copyright {
     font-size: 8pt;
-    text-align: right;
+    text-align: bottom;
     padding-bottom: 10px;
     color: grey;
 }
