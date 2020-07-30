@@ -43,4 +43,5 @@ nav{
     color:#00b894;
     text-align: right;
     position: absolute;
+    float: right;
 }
