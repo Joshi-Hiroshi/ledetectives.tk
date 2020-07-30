@@ -41,7 +41,6 @@ nav{
 }
 .options{
     color:#00b894;
-    text-align: center;
-    position: absolute;
+    /*position: absolute;*/
     display: inline-block;
 }
