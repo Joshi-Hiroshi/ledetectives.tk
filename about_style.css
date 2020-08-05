@@ -66,3 +66,11 @@ nav{
     position: absolute;
     padding-bottom: 3px;
 }
+.copyright {
+    font-size: 10pt;
+    bottom:0px;
+    text-align:right;
+    position: absolute;
+    padding-bottom: 3px;
+    right:0px; 
+    color:grey;
