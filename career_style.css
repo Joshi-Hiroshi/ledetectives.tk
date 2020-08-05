@@ -57,7 +57,8 @@ nav{
     position: absolute;
     padding-bottom: 3px;
     right:0px; 
-    color: grey;
+    color:grey;
+}
 .contacts img {
     height: 35px;
     width: 35px;
