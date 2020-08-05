@@ -64,10 +64,10 @@ header::before{
     font-size: 50px;
 }
 @keyframes changetext{
-    0% {content: "Manjunath";}
-    30% {content:"Detective";}
-    60% {content:"Mystery";}
-    90% {content:"(Insert Quality)";}
+    0% {content: "Detective";}
+    30% {content:"Mystery";}
+    60% {content:"Investigate";}
+    90% {content:"Reliable";}
  
 }
 .copyright {
