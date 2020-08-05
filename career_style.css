@@ -58,3 +58,22 @@ nav{
     padding-bottom: 3px;
     right:0px; 
     color: grey;
+.contacts img {
+    height: 35px;
+    width: 35px;
+    margin-left: 7px;
+    margin-right: 7px;
+    
+}
+.contacts a {
+    text-decoration: none;
+}
+.contacts img:hover {
+    opacity: 0.8;
+}
+.contacts{
+    text-align: right;
+    bottom:0px;
+    position: absolute;
+    padding-bottom: 3px;
+}
